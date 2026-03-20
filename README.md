@@ -1,2 +1,3 @@
-# smart-task-manager-u6cm
-A task management tool for modern development workflows
+# Smart Task Manager U6Cm
+
+A task management tool for modern development workflows.
